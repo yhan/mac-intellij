@@ -8,7 +8,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CheckinProject" />
-  <action id="CommentByBlockComment" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="k" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
   </action>
