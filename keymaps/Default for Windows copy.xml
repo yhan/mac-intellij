@@ -14,6 +14,10 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
   </action>
+  <action id="ContextHelp" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="DecrementWindowHeight" />
