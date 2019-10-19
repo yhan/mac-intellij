@@ -1,0 +1,11 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy 1" parent="Mac OS X">
+  <action id="CheckinProject" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="k" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
+  </action>
+</keymap>
