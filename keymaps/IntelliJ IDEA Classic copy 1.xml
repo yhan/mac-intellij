@@ -5,8 +5,19 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="CheckinProject" />
-  <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="shift ctrl add" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseAllRegions" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="k" />
