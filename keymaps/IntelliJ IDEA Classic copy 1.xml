@@ -45,6 +45,10 @@
   <action id="NavBar-selectEnd">
     <keyboard-shortcut first-keystroke="end" />
   </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
