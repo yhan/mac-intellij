@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Scalafmt errors (Scala plugin)" shouldLog="false" />
+  </component>
+</application>
