@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="FORMATTER" value="1" />
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="2" />
