@@ -51,6 +51,9 @@
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="Images.ShowThumbnails" />
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="ctrl meta alt i" />
+  </action>
   <action id="NavBar-selectEnd">
     <keyboard-shortcut first-keystroke="end" />
   </action>
